@@ -4,7 +4,7 @@ Welcome to my portfolio of Python projects! Here, you'll find a collection of da
 
 ## Project 1 - Google Trends Keyword Analysis
 
-<!-- ![Keyword Analysis](https://github.com/gupta-aayushkr/Keyword-Analysis/raw/main/project_screenshot.png) -->
+![Keyword Analysis](Images/Keyword Analysis.png)
 
 This is a Streamlit app that allows you to analyze CSV data files containing Keywords information. It provides insights into Keyword trends over different time periods, allows keyword filtering, and displays the results using interactive data visualization.
 
@@ -13,7 +13,7 @@ This is a Streamlit app that allows you to analyze CSV data files containing Key
 
 ## Project 2 - Etsy Data Analysis App
 
-<!-- ![Etsy Data Analysis](https://github.com/gupta-aayushkr/Etsy-Market-Analysis/raw/main/project_screenshot.png) -->
+![Etsy Data Analysis](https://github.com/gupta-aayushkr/Etsy-Market-Analysis/raw/main/project_screenshot.png)
 
 This web application allows you to analyze and explore data from the Etsy marketplace. You can either upload your own CSV file or select one from the provided dataset for analysis.
 
